@@ -67,7 +67,7 @@ visit_occurrence
 
 vocabulary
 
-* Note other tables exist but are related to teh build and are not data related
+* Note other tables exist but are related to the ebuild and are not data related
 
 There is no identifiable information (such as names, date of birth, address,) available to the Connected Yorkshire project so patient confidentiality and privacy will be protected.
 
