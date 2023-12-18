@@ -16,6 +16,8 @@ Data up to: 2021-11-19
 
 Observation Period Dates: 1900-01-01	to 2021-11-19
 
+An up to date build of this will be carried out in early 2024 - using up to to date Primary Care data and Secondary Care data from Bradford, Airedale and Calderdale hospitals.
+
 ### Standard CDM tables included in this dataset*
 achilles_analysis
 
